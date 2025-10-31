@@ -64,7 +64,7 @@ export default function About() {
                 lineHeight: 1.7,
               }}
             >
-              Hi, I’m <b>Tsemru Fikremariam</b>, a 23-year-old self-taught artist
+              Hi, I&apos;m <b>Tsemru Fikremariam</b>, a 23-year-old self-taught artist
               and graphic designer with over 3 years of experience. I have a
               deep passion for artistic expression—whether through digital
               design, painting, or traditional art. My creative journey is
@@ -72,7 +72,7 @@ export default function About() {
               visually. Although my background is in Information Systems (I hold
               a bachelor's degree), my heart has always been in art and design.
               I blend technical understanding with creative instincts to produce
-              work that’s both thoughtful and visually engaging. I'm constantly
+              work that&apos;s both thoughtful and visually engaging. I'm constantly
               learning, growing, and pushing my limits.
             </Typography>
 

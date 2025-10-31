@@ -82,7 +82,7 @@ export default function AboutSection() {
               color: "text.secondary",
             }}
           >
-            Hi, I’m <b>Tsemru Fikremariam</b>, a 23-year-old self-taught artist and graphic designer with over 3 years of experience. I have a deep passion for artistic expression—whether through digital design, painting, or traditional art. My creative journey is driven by curiosity, emotion, and a desire to bring ideas to life visually. Although my background is in Information Systems (I hold a bachelor's degree), my heart has always been in art and design. I blend technical understanding with creative instincts to produce work that’s both thoughtful and visually engaging. I'm constantly learning, growing, and pushing my limits.
+            Hi, I&apos;m <b>Tsemru Fikremariam</b>, a 23-year-old self-taught artist and graphic designer with over 3 years of experience. I have a deep passion for artistic expression—whether through digital design, painting, or traditional art. My creative journey is driven by curiosity, emotion, and a desire to bring ideas to life visually. Although my background is in Information Systems (I hold a bachelor's degree), my heart has always been in art and design. I blend technical understanding with creative instincts to produce work that&apos;s both thoughtful and visually engaging. I'm constantly learning, growing, and pushing my limits.
           </Typography>
 
           <Box sx={{ display: "flex", justifyContent: { xs: "center", md: "flex-start" } }}>

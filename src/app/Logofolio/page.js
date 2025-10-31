@@ -9,42 +9,43 @@ export default function Logofolio() {
 
   const logos = [
   {
-    img: "/images/logo/logo 9.jpg",
+    img: "/images/logo/logo9.jpg",
     desc: "Oly Tech — Blending printing, design, and web development to craft bold, modern brand experiences that connect businesses with the digital world."
   },
   {
-    img: "/images/logo/logo 8.jpg",
-    desc: "Fenani Trading — Representing global movement and opportunity through trusted import–export services built on strong international connections."
+    img: "/images/logo/logo8.jpg",
+    desc: "Fenani Trading — Representing global movement and opportunity through trusted import-export services built on strong international connections."
   },
   {
-    img: "/images/logo/logo 7.jpg",
+    img: "/images/logo/logo7.jpg",
     desc: "Menata Hotel — A symbol of modern hospitality, offering comfort, warmth, and cultural elegance for a luxurious stay that feels like home."
   },
   {
-    img: "/images/logo/logo 10.jpg",
+    img: "/images/logo/logo10.jpg",
     desc: "Yearbook Ethiopia — A digital platform connecting Ethiopian college students through stories, memories, and a shared sense of community."
   },
   {
-    img: "/images/logo/logo 6.jpg",
+    img: "/images/logo/logo6.jpg",
     desc: "Genesis Systems — Innovating software solutions that transform complex ideas into smart, user-focused digital experiences."
   },
   {
-    img: "/images/logo/logo 111.jpg",
+    img: "/images/logo/logo111.jpg",
     desc: "Addis Bridge — Connecting dreams with destinations through expert visa consultancy built on clarity, trust, and global insight."
   },
   {
-    img: "/images/logo/logo 4.jpg",
+    img: "/images/logo/logo4.jpg",
     desc: "Arif Advertising — Blending creativity and strategy to help brands stand out with bold ideas that inspire and captivate audiences."
   },
   {
-    img: "/images/logo/logo 2.jpg",
+    img: "/images/logo/logo2.jpg",
     desc: "Brana SaaS — Empowering learning through accessible, tech-driven education that merges innovation and knowledge for the future."
   },
   {
-    img: "/images/logo/logo 1.jpg",
+    img: "/images/logo/logo1.jpg",
     desc: "Zamar Bar & Restaurant — Capturing the energy of good food, music, and community for people who love flavor, fun, and unforgettable moments."
   }
 ];
+
 
   return (
     <>
