@@ -64,16 +64,16 @@ export default function About() {
                 lineHeight: 1.7,
               }}
             >
-              {/* Hi, Im <b>Tsemru Fikremariam</b>, a 23-year-old self-taught artist
+              Hi, Im <b>Tsemru Fikremariam</b>, a 23-year-old self-taught artist
               and graphic designer with over 3 years of experience. I have a
               deep passion for artistic expression—whether through digital
               design, painting, or traditional art. My creative journey is
               driven by curiosity, emotion, and a desire to bring ideas to life
               visually. Although my background is in Information Systems (I hold
-              a bachelor's degree), my heart has always been in art and design.
+              a bachelors degree), my heart has always been in art and design.
               I blend technical understanding with creative instincts to produce
-              work thats both thoughtful and visually engaging. I'm constantly
-              learning, growing, and pushing my limits. */}
+              work thats both thoughtful and visually engaging. Im constantly
+              learning, growing, and pushing my limits. 
             </Typography>
 
             {/* Download CV Button */}
