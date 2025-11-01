@@ -7,8 +7,8 @@ export default function OlyColorsTypography() {
   const theme = useTheme();
 
   const colors = [
-    { name: "Primary Blue", hex: "#101138" },
-    { name: "Accent Green", hex: "#8DC443" },
+    { name: "Primary Green", hex: "#25f34bff" },
+    { name: "Accent Blue", hex: "#2c47f7ff" },
   ];
 
   const fontSamples = [
@@ -112,13 +112,13 @@ export default function OlyColorsTypography() {
             >
               <Typography
                 sx={{
-                  fontFamily: "Staple, sans-serif",
+                  fontFamily: "Helvetica, sans-serif",
                   fontWeight: font.weight,
                   fontSize: { xs: 28, md: 40 },
                   width: "100%",
                 }}
               >
-                Staple — {font.label}
+                Helvetica — {font.label}
               </Typography>
             </Card>
           ))}

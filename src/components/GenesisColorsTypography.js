@@ -7,8 +7,8 @@ export default function GenesisColorsTypography() {
   const theme = useTheme();
 
   const colors = [
-    { name: "Primary Blue", hex: "#101138" },
-    { name: "Accent Green", hex: "#8DC443" },
+    { name: "Primary Blue", hex: "#0508b1ff" },
+    { name: "Accent blue", hex: "#3d76fbff" },
   ];
 
   const fontSamples = [
@@ -112,7 +112,7 @@ export default function GenesisColorsTypography() {
             >
               <Typography
                 sx={{
-                  fontFamily: "Staple, sans-serif",
+                  fontFamily: "Staple text,sans-serif",
                   fontWeight: font.weight,
                   fontSize: { xs: 28, md: 40 },
                   width: "100%",
