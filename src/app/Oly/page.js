@@ -51,7 +51,7 @@ export default function Oly() {
 
       {/* Full-width Media */}
       <Card sx={{ ...cardStyle("16/9"), mb: 8 }}>
-        <CardMedia component="img" image="/images/Oly/Slide1.png" sx={{ width: "100%", height: "100%", objectFit: "cover" }} />
+        <CardMedia component="img" image="/images/Slide1.png" sx={{ width: "100%", height: "100%", objectFit: "cover" }} />
       </Card>
 
       {/* About Company + Media Side by Side */}
@@ -63,13 +63,13 @@ export default function Oly() {
              </Typography>
         </Box>
         <Card sx={{ flex: 1, ...cardStyle("4/3") }}>
-          <CardMedia component="img" image="/images/Oly/oly 9.png" sx={{ width: "100%", height: "100%", objectFit: "cover" }} />
+          <CardMedia component="img" image="/images/oly 9.png" sx={{ width: "100%", height: "100%", objectFit: "cover" }} />
         </Card>
       </Box>
 
       {/* First Two 1:1 Cards */}
       <Box sx={{ display: "flex", gap: `${gap}px`, mb: 10, flexWrap: "wrap" }}>
-        {["/images/oly/oly 7.jpg", "/images/oly/oly 8.png"].map((src, i) => (
+        {["/images/oly 7.jpg", "/images/oly 8.png"].map((src, i) => (
           <Card key={i} sx={{ flex: 1, minWidth: "250px", ...cardStyle("1/1") }}>
             <CardMedia component="img" image={src} sx={{ width: "100%", height: "100%", objectFit: "cover" }} />
           </Card>
@@ -86,12 +86,12 @@ export default function Oly() {
 
       {/* Full-width Media */}
       <Card sx={{ ...cardStyle("16/9"), mb: 8 }}>
-        <CardMedia component="img" image="/images/oly/A4.png" sx={{ width: "100%", height: "100%", objectFit: "cover" }} />
+        <CardMedia component="img" image="/images/A4.png" sx={{ width: "100%", height: "100%", objectFit: "cover" }} />
       </Card>
 
       {/* Grid of Images */}
       <Box sx={{ display: "flex", flexWrap: "wrap", gap: `${gap}px`, justifyContent: "center", mb: 10 }}>
-        {["/images/oly/oly 1.jpg", "/images/oly/oly 2.jpg", "/images/oly/oly 3.jpg", "/images/oly/oly 6.jpg", "/images/oly/A5.png"].map((src, i) => (
+        {["/images/oly 1.jpg", "/images/oly 2.jpg", "/images/oly 3.jpg", "/images/oly 6.jpg", "/images/A5.png"].map((src, i) => (
           <Card key={i} sx={{ flex: "1 1 calc(33% - 16px)", minWidth: "250px", ...cardStyle("1/1") }}>
             <CardMedia component="img" image={src} sx={{ width: "100%", height: "100%", objectFit: "cover" }} />
           </Card>

@@ -54,35 +54,35 @@ export default function GenesisSocialMedia() {
       >
         {/* Row 1: 2 images */}
         <Card sx={cardStyle(twoColumnWidth)}>
-          <CardMedia component="img" image="/images/oly/oly print what 1.jpg" sx={imageStyle} />
+          <CardMedia component="img" image="/images/oly print what 1.jpg" sx={imageStyle} />
         </Card>
         <Card sx={cardStyle(twoColumnWidth)}>
-          <CardMedia component="img" image="/images/oly/OLy random post 3.jpg" sx={imageStyle} />
+          <CardMedia component="img" image="/images/OLy random post 3.jpg" sx={imageStyle} />
         </Card>
 
         {/* Row 2: 3 images */}
         <Card sx={cardStyle(threeColumnWidth)}>
-          <CardMedia component="img" image="/images/oly/OLy Why Your Brand Color is Lying 1.jpg" sx={imageStyle} />
+          <CardMedia component="img" image="/images/OLy Why Your Brand Color is Lying 1.jpg" sx={imageStyle} />
         </Card>
         <Card sx={cardStyle(threeColumnWidth)}>
-          <CardMedia component="img" image="/images/oly/OLy random post 1.jpg" sx={imageStyle} />
+          <CardMedia component="img" image="/images/OLy random post 1.jpg" sx={imageStyle} />
         </Card>
         <Card sx={cardStyle(threeColumnWidth)}>
-          <CardMedia component="img" image="/images/oly/OLy we print we design.jpg" sx={imageStyle} />
+          <CardMedia component="img" image="/images/OLy we print we design.jpg" sx={imageStyle} />
         </Card>
 
         {/* Row 3: 2 images */}
         <Card sx={cardStyle(twoColumnWidth, "4/5")}>
   <CardMedia
     component="img"
-    image="/images/oly/OLy random post 8.jpg"
+    image="/images/OLy random post 8.jpg"
     sx={imageStyle}
   />
 </Card>
 <Card sx={cardStyle(twoColumnWidth, "4/5")}>
   <CardMedia
     component="img"
-    image="/images/oly/OLy random post 7.jpg"
+    image="/images/OLy random post 7.jpg"
     sx={imageStyle}
   />
 </Card>
