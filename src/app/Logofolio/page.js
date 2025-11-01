@@ -78,7 +78,7 @@ export default function Logofolio() {
             color: theme.palette.text.secondary,
           }}
         >
-          A curated collection of logos I've designed. Each piece blends creativity and brand identity to communicate a unique story.
+          A curated collection of logos Ive designed. Each piece blends creativity and brand identity to communicate a unique story.
         </Typography>
       </Box>
 
